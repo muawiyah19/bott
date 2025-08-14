@@ -1,0 +1,5 @@
+tweepy==4.14.0
+google-api-python-client==2.99.0
+yt-dlp==2025.08.14
+schedule==1.2.0
+Flask==2.3.4
