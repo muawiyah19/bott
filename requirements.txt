@@ -2,4 +2,5 @@ tweepy==4.14.0
 google-api-python-client==2.99.0
 yt-dlp
 schedule==1.2.0
-Flask==2.3.4
+Flask==2.3.3
+
